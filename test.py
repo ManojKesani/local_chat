@@ -11,7 +11,7 @@ os.environ["OPENAI_API_KEY"] = "NA"
 
 llm = ChatOpenAI(
 
-    model = "crew_phi3:latest",
+    model = "crew_gemma:latest",
 
     base_url = "http://localhost:11434/v1")
 
@@ -46,7 +46,7 @@ general_agent = Agent(role = "Math Professor",
 
 q = input('please ask math questions')
 math_task = Task (description=f"""{q}""",
-                  expected_output='solution to the math question asked',
+                  expected_output='solution to the math question asked and provide the answer and nothing else',
              agent = general_agent)
 
 crew = Crew(

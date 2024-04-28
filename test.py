@@ -37,6 +37,8 @@ llm = LLM.get_llm(model_name='groq')
 research_agent = a.create_agent('agent_tester',llm)
 
 tutor_agent = a.create_agent('Personalized_Learning_Tutor',llm)
+quiz_agent = a.create_agent('quiz_Tutor',llm)
+
 
 
 
@@ -54,8 +56,44 @@ a structured notes of all the concepts in the notes as a md file.
                          and key points to understand
 '''),
   agent=tutor_agent,
+  output_file='e1.md'
 )
 
+# quiz_task = Task(
+#   description=dedent(f'''
+#                         Given a set of class notes Tutor is tasked 
+#                         with going through and provide a quiz on the key topics
+                         
+#                         '''),
+#   expected_output=dedent(f'''
+# a structured quizzes of all the concepts in the notes as a md file along with the answers.
+                         
+# '''),
+#   agent=quiz_agent,
+#   output_file='q1.md'
+
+# )
+
+quiz_task = Task(
+  description=dedent(f'''Given the following notes from pdf 
+                        -------------- text --------------------
+                        {pdf_text}
+                        ----------------------------------------
+                        Given a set of class notes Tutor is tasked 
+                        with going through and provide a quiz on the key topics
+                         
+                        '''),
+  expected_output=dedent(f'''
+a structured quizzes of all the concepts in the notes as a md file along with the answers.
+                         
+'''),
+  agent=quiz_agent,
+  output_file='q1.md'
+
+)
+
+
+# quiz_task.context = [task]
 
 # task = Task(
 #   description='Make up news stories that sound realistic.',
@@ -80,8 +118,8 @@ a structured notes of all the concepts in the notes as a md file.
 #              agent = general_agent)
 
 crew = Crew(
-            agents=[tutor_agent],
-            tasks=[task],
+            agents=[tutor_agent,quiz_agent],
+            tasks=[task,quiz_task],
             verbose=2
         )
 
@@ -95,5 +133,5 @@ def write_to_md_file(text, file_name):
         md_file.write(text)
 
 
-file_name = "example2.md"
+file_name = "example3.md"
 write_to_md_file(result, file_name)

@@ -7,8 +7,18 @@ from langchain.chat_models import ChatOpenAI as oai
 from langchain_groq import ChatGroq
 
 
-os.environ["OPENAI_API_KEY"] = "NA"
-os.environ["GROQ_API_KEY"] = "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"
+from dotenv import dotenv_values
+
+# Load variables from .env file
+env_vars = dotenv_values(".env")
+
+# Access variables
+for key, value in env_vars.items():
+    os.environ[key] = value
+
+
+
+
 
 
 
@@ -44,7 +54,8 @@ class LLMClient:
         
         if model_name == 'groq':
             return ChatGroq(api_key='',
-                            model='llama3-70b-8192')
+                            model='llama3-70b-8192',
+                            temperature=0)
 
 
             

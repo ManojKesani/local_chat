@@ -26,7 +26,7 @@ def extract_text_from_pdf(pdf_path):
 
 
 # Replace 'your_pdf_file.pdf' with the path to your PDF file
-pdf_text = extract_text_from_pdf(r"pdf_data/Lecture 9_Times Series Forecasting (Stationary Data)(3).pdf")
+pdf_text = extract_text_from_pdf(r"/Users/manojkesani/Desktop/local_chat/pdf_data/Sentence_Embeddings.pdf")
 
 
 

@@ -1,139 +1,82 @@
-**Time Series Forecasting (Stationary Data) Quiz**
+**Sentence Embeddings and Their Role in NLP Quiz**
+=====================================================
 
-**Introduction**
+### Quiz 1: What are Sentence Embeddings?
 
-1. What is time series analysis?
-a) Analyzing past behavior of data to predict its future behavior
-b) Analyzing future behavior of data to predict its past behavior
-c) Analyzing present behavior of data to predict its past behavior
-d) Analyzing past behavior of data to predict its present behavior
+* What are sentence embeddings?
+a) Numerical representations of words
+b) Numerical representations of sentences
+c) Numerical representations of documents
+d) Numerical representations of paragraphs
 
-Answer: a) Analyzing past behavior of data to predict its future behavior
+Answer: b) Numerical representations of sentences
 
-2. What is an example of time series data?
-a) Dow Jones Industrial Averages
-b) Historical data on sales
-c) Customer counts
+### Quiz 2: Role of Sentence Embeddings in NLP
+
+* What is the role of sentence embeddings in NLP?
+a) To understand the meaning of individual words
+b) To understand the meaning and context of text
+c) To analyze the syntax of sentences
+d) To generate new sentences
+
+Answer: b) To understand the meaning and context of text
+
+### Quiz 3: From W2VEC to Sentence Embeddings
+
+* What is an example of sentence embeddings using W2VEC?
+a) No: [1,0,0,0]
+b) I: [0,2,0,0]
+c) Am: [-1,0,1,0]
 d) All of the above
 
 Answer: d) All of the above
 
-**Stationary Data**
+### Quiz 4: Cross-Encoder (BERT) vs. Bi-Encoder (SBERT)
 
-3. What is stationary data?
-a) Data with a significant trend
-b) Data with no significant trend, non-explosive, non-wandering
-c) Data with a significant upward trend
-d) Data with a significant downward trend
+* What is the main difference between Cross-Encoder (BERT) and Bi-Encoder (SBERT)?
+a) BERT is suitable for pair regression tasks, while SBERT is more efficient for computing sentence embeddings
+b) SBERT is suitable for pair regression tasks, while BERT is more efficient for computing sentence embeddings
+c) BERT is more efficient for computing sentence embeddings, while SBERT is suitable for pair regression tasks
+d) SBERT is more efficient for computing sentence embeddings, while BERT is suitable for pair regression tasks
 
-Answer: b) Data with no significant trend, non-explosive, non-wandering
+Answer: a) BERT is suitable for pair regression tasks, while SBERT is more efficient for computing sentence embeddings
 
-**Nonstationary Data**
+### Quiz 5: Siamese Network Architectures
 
-4. What is nonstationary data?
-a) Data with no significant trend
-b) Data with a significant upward/downward trend, wandering up and down over time
-c) Data with a significant seasonal effect
-d) Data with no significant seasonal effect
+* What is the main difference between Cross-Encoder Architecture and Bi-Encoder Architecture?
+a) Cross-Encoder uses two separate encoders, while Bi-Encoder uses a single encoder
+b) Bi-Encoder uses two separate encoders, while Cross-Encoder uses a single encoder
+c) Cross-Encoder uses the CLS token as sentence representation, while Bi-Encoder averages the BERT output layer
+d) Bi-Encoder uses the CLS token as sentence representation, while Cross-Encoder averages the BERT output layer
 
-Answer: b) Data with a significant upward/downward trend, wandering up and down over time
+Answer: c) Cross-Encoder uses the CLS token as sentence representation, while Bi-Encoder averages the BERT output layer
 
-**Seasonal Data**
+### Quiz 6: Loss Functions for Siamese Network
 
-5. What is seasonal data?
-a) Data with a repeating pattern at regular intervals over time
-b) Data with no repeating pattern at regular intervals over time
-c) Data with a significant trend
-d) Data with no significant trend
-
-Answer: a) Data with a repeating pattern at regular intervals over time
-
-**Extrapolation Model**
-
-6. What is the general form of an extrapolation model?
-a) 𝑌𝑡+1 = 𝑓(𝑌𝑡, 𝑌𝑡−1, 𝑌𝑡−2, …)
-b) 𝑌𝑡+1 = 𝑓(𝑌𝑡, 𝑌𝑡−1)
-c) 𝑌𝑡+1 = 𝑓(𝑌𝑡)
-d) 𝑌𝑡+1 = 𝑓(𝑌𝑡−1)
-
-Answer: a) 𝑌𝑡+1 = 𝑓(𝑌𝑡, 𝑌𝑡−1, 𝑌𝑡−2, …)
-
-**Measuring Accuracy**
-
-7. What is one way to measure the accuracy of a forecasting model?
-a) Minimizing Mean Absolute Deviation (MAD)
-b) Minimizing Mean Absolute Percent Error (MAPE)
-c) Minimizing Mean Square Error (MSE)
+* What is the loss function used for training Siamese networks for NLI dataset?
+a) Cross-Entropy Loss Function
+b) Regression Loss Function (MSE)
+c) Triplet Loss Function
 d) All of the above
 
-Answer: d) All of the above
+Answer: a) Cross-Entropy Loss Function
 
-**Stationary Models: An Example**
+### Quiz 7: Applications of BERT and SBERT
 
-8. What is the goal of the manager of Electra-City?
-a) To estimate the number of DVRs the store will sell in the next four months
-b) To estimate the number of DVRs the store will sell in the next year
-c) To estimate the number of DVRs the store will sell in the next quarter
-d) To estimate the number of DVRs the store will sell in the next week
+* What is an application of BERT (Cross-Encoder)?
+a) Semantic Search Engines
+b) Customer Support Automation
+c) Data Deduplication
+d) Real-time Social Media Monitoring
 
-Answer: a) To estimate the number of DVRs the store will sell in the next four months
+Answer: b) Customer Support Automation
 
-**Moving Average (MA) Technique**
+### Quiz 8: Key Points to Understand
 
-9. What is the MA technique?
-a) The simplest forecasting method
-b) A complex forecasting method
-c) A method that uses exponential smoothing
-d) A method that uses weighted moving averages
+* What is a key point to understand about sentence embeddings?
+a) They are crucial for understanding the meaning and context of text in NLP
+b) They are only used for pair regression tasks
+c) They are only used for computing sentence embeddings
+d) They are not used in NLP
 
-Answer: a) The simplest forecasting method
-
-**Weighted Moving Average (WMA) Technique**
-
-10. What is the WMA technique?
-a) A technique that assigns equal weights to past values
-b) A technique that assigns different weights to past values
-c) A technique that uses exponential smoothing
-d) A technique that uses moving averages
-
-Answer: b) A technique that assigns different weights to past values
-
-**Exponential Smoothing Technique**
-
-11. What is the exponential smoothing technique?
-a) A technique that uses moving averages
-b) A technique that uses weighted moving averages
-c) A technique that uses exponential smoothing
-d) A technique that uses seasonal decomposition
-
-Answer: c) A technique that uses exponential smoothing
-
-**Seasonality**
-
-12. What is seasonality?
-a) A regular and repeating pattern in time series data
-b) A irregular and non-repeating pattern in time series data
-c) A trend in time series data
-d) A random fluctuation in time series data
-
-Answer: a) A regular and repeating pattern in time series data
-
-**Forecasting Stationary Data with Additive Seasonal Effects**
-
-13. What is the formula for forecasting stationary data with additive seasonal effects?
-a) 𝑌𝑡+𝑛 = 𝐸𝑡 + 𝑆𝑡+𝑛−𝑝
-b) 𝑌𝑡+𝑛 = 𝐸𝑡 × 𝑆𝑡+𝑛−𝑝
-c) 𝑌𝑡+𝑛 = 𝐸𝑡 - 𝑆𝑡+𝑛−𝑝
-d) 𝑌𝑡+𝑛 = 𝐸𝑡 / 𝑆𝑡+𝑛−𝑝
-
-Answer: a) 𝑌𝑡+𝑛 = 𝐸𝑡 + 𝑆𝑡+𝑛−𝑝
-
-**Forecasting Stationary Data with Multiplicative Seasonal Effects**
-
-14. What is the formula for forecasting stationary data with multiplicative seasonal effects?
-a) 𝑌𝑡+𝑛 = 𝐸𝑡 × 𝑆𝑡+𝑛−𝑝
-b) 𝑌𝑡+𝑛 = 𝐸𝑡 + 𝑆𝑡+𝑛−𝑝
-c) 𝑌𝑡+𝑛 = 𝐸𝑡 - 𝑆𝑡+𝑛−𝑝
-d) 𝑌𝑡+𝑛 = 𝐸𝑡 / 𝑆𝑡+𝑛−𝑝
-
-Answer: a) 𝑌𝑡+𝑛 = 𝐸𝑡 × 𝑆𝑡+𝑛−𝑝
+Answer: a) They are crucial for understanding the meaning and context of text in NLP

@@ -33,22 +33,27 @@ pdf_text = extract_text_from_pdf(r"pdf_data/Lecture 9_Times Series Forecasting (
 LLM = LLMClient()
 a = AgentCreator('agents.json')
 
-llm = LLM.get_llm(model_name='openai')
+llm = LLM.get_llm(model_name='groq')
 research_agent = a.create_agent('agent_tester',llm)
 
-pdf_cleaner_agent = a.create_agent('PDF_Cleaner',llm)
+tutor_agent = a.create_agent('Personalized_Learning_Tutor',llm)
 
 
 
 task = Task(
-  description=dedent(f'''Given the following text 
+  description=dedent(f'''Given the following notes from pdf 
                         -------------- text --------------------
                         {pdf_text}
                         ----------------------------------------
-                        clean the text 
+                        Given a set of class notes Tutor is tasked 
+                        with going through it and help to understand all concepts provided
+                         
                         '''),
-  expected_output='good clean text ',
-  agent=pdf_cleaner_agent,
+  expected_output=dedent(f'''
+a structured notes of all the concepts in the notes as a md file.
+                         and key points to understand
+'''),
+  agent=tutor_agent,
 )
 
 
@@ -75,7 +80,7 @@ task = Task(
 #              agent = general_agent)
 
 crew = Crew(
-            agents=[pdf_cleaner_agent],
+            agents=[tutor_agent],
             tasks=[task],
             verbose=2
         )
@@ -85,7 +90,10 @@ crew = Crew(
 
 result = crew.kickoff()
 
+def write_to_md_file(text, file_name):
+    with open(file_name, 'w') as md_file:
+        md_file.write(text)
 
 
-
-print(result)
+file_name = "example2.md"
+write_to_md_file(result, file_name)

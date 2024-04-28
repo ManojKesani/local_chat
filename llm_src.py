@@ -4,9 +4,13 @@ from langchain.llms import OpenAI
 import os
 
 from langchain.chat_models import ChatOpenAI as oai
+from langchain_groq import ChatGroq
 
 
-os.environ["OPENAI_API_KEY"] = ""
+os.environ["OPENAI_API_KEY"] = "NA"
+os.environ["GROQ_API_KEY"] = "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"
+
+
 
 
 class LLMClient:
@@ -37,6 +41,10 @@ class LLMClient:
         
         if model_name == 'openai':
             return ChatOpenAI(model='gpt-3.5-turbo')
+        
+        if model_name == 'groq':
+            return ChatGroq(api_key='',
+                            model='llama3-70b-8192')
 
 
             

@@ -54,7 +54,7 @@ class LLMClient:
         
         if model_name == 'groq':
             return ChatGroq(api_key='',
-                            model='llama3-70b-8192',
+                            model='llama3-8b-8192',
                             temperature=0)
 
 

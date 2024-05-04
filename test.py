@@ -26,14 +26,14 @@ def extract_text_from_pdf(pdf_path):
 
 
 # Replace 'your_pdf_file.pdf' with the path to your PDF file
-pdf_text = extract_text_from_pdf(r"pdf_data/2404.14619v1.pdf")
+pdf_text = extract_text_from_pdf(r"./pdf_data/2404.14619v1.pdf")
 
 
 
 LLM = LLMClient()
 a = AgentCreator('agents.json')
 
-llm = LLM.get_llm(model_name='openai')
+llm = LLM.get_llm(model_name='phi')
 research_agent = a.create_agent('agent_tester',llm)
 
 tutor_agent = a.create_agent('Personalized_Learning_Tutor',llm)
@@ -77,7 +77,7 @@ summary_task = Task(
                         '''),
   expected_output=dedent(f'''A bullet list summary of the top 5 most important points'''),
   agent=tutor_agent,
-  output_file='e1111.md'
+  output_file='e1111132.md'
 )
 # quiz_task = Task(
 #   description=dedent(f'''

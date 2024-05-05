@@ -1,0 +1,51 @@
+----------------------------------------------
+Name : Cloud Architect
+Education : 
+  - Master of Science in Information Systems, Pace University - White Plains, NY (May 2010)
+  - Bachelor of Engineering in Computer Science, Osmania University - Hyderabad, Telangana (June 2007)
+  - E. Gorton High School - Yonkers, NY (June 2001)
+
+Skills :
+  - Ms access
+  - Sql server
+  - Sql
+  - Sharepoint
+  - Ssrs
+  - HTML
+  - Linux
+  - XML
+  - Cloud Computing
+  - Python
+  - Hive
+  - Hadoop
+  - Pig
+  - NoSQL
+  - Kubernetes
+  - Docker
+  - Amazon Web Services
+  - Google Cloud
+
+Experience:
+  - Cloud Architect, Evalueserve - Chicago, IL (March 2019 to Present)
+    * Designed, implemented, and led the Google Cloud environment from scratch for one of the biggest food industries
+    * Lead the architecture and strategy process for implementing the data lake, migration of the existing system, and build new solutions for new applications with CICD capability on Google Cloud/ AWS
+    * Managed multiple projects from initial client contact through the planning process to the final deliverables
+  - Cloud Architect, Evalueserve - Chicago, IL (March 2019 to Present)
+    * Design and implement the google cloud environment from scratch for one of the biggest food industries
+    * Migrate existing Email Marketing System in Google Cloud and redesigned the infrastructure by utilizing Data Proc as a processing system, APP Engine to host APIs and Cloud SQL to store transactional data
+    * Lead the architecture and strategy process for implementing data lake in Google Cloud by managing the sourcing of the data from various vendors into the Big Query and developing detailed project plans that map to client's strategic cloud-based business initiatives
+  - Lead Systems Engineer, Deloitte LLP - Hermitage, TN (January 2014 to March 2019)
+    * Supported large-scale environments consisting of thousands of servers, petabytes of data, and multiple application hosted in-house as well as in AWS
+    * Designed high availability and cost-effective solutions for new applications in AWS by assessing the requirements and developing best practices to ensure software functionality, reliability, usability and availability
+  - Project Manager/ DBA, Barrister Digital Solutions LLC - Washington, DC (April 2013 to October 2013)
+    * Assisted clients to establish best practices which meet their needs and addressed any prioritization issues
+    * Provided substantive oversight to client-specific projects on a day-to-day basis
+  - IT Database Administrator, CSX Transportation - Jacksonville, FL (November 2012 to February 2013)
+    * Managed Data Hosting and Processing platforms, including databases
+  - IT Database Consultant, Evidence Exchange - New York, NY (May 2011 to October 2012)
+    * Assisted in upgrading Data Hosting Platform (Relativity) from version 6.10 to 7.4
+  - Data Analyst, RVM Inc - New York, NY (July 2010 to April 2011)
+    * Defined protocols and best practices in the areas of processing, filtering, and culling the electronically stored information within firm and by the client
+
+Certifications/Licenses:
+  - AWS Solution Architect - Associate (August 2018 to August 2020)

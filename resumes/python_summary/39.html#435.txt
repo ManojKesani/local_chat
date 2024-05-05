@@ -1,0 +1,49 @@
+----------------------------------------------
+Name : Oracle Database Administrator
+Education : Some college
+Skills : DATA MIGRATION, DATABASE, SECURITY, PERFORMANCE TUNING, CLONING, DBA, Oracle Dba, Solution Architect, AWS, Linux, Python
+Experience:
+- Worked at Arafat Travel, Arlington Heights, IL
+  * Managed databases changes for releases
+  * Reviewed DDL and recommended corrections and modifications to the App team
+  * Experienced in setting up AWS environments
+  * Experienced in setting up Data Guard
+  * Experienced in Performance Tuning using EXPLAIN PLAN, and STATSPACK
+  * Experienced in implementing policies, and procedures for disaster recovery and archival processing to ensure data protection
+  * Experienced in SQL coding including DDL, DML and fine-tuning those SQL's for better performance
+  * Experienced in using 11g features Flash-Back Recovery, Data Pump, AWR, ASM, ADDM, ASH, Recycle Bin, 10g Grid Monitoring
+  * Experienced in applying patches/ patch sets to the databases
+  * Experienced in Import/Export and Data Pump Import/Export tools
+  * Experienced in configuring ASM (Automatic Storage Management)
+  * Experienced in implementing High Availability solutions with Oracle 11g RAC, Oracle Data Guard and replication using Streams
+  * Planned and implemented high availability solutions such as Real Application Cluster (RAC) in Oracle 12c
+  * Highly experienced in Oracle 11g, 10g Automatic Storage Management (ASM) required to fulfil the storage needs
+  * Highly experienced in analyzing and understanding the AWR reports and can fine tune the databases for maximum performance
+  * Installed, configured and upgraded to Oracle 12c; consolidated multiple databases into multi-tenant database containers; evaluated and implemented latest database technology and new Oracle 12c features
+  * Performed database monitoring and tuning to ensure databases run at peak performance; troubleshooting production performance issues
+  * Extensively managed users, privileges, profiles, schemas using Oracle Enterprise Manager (OEM)
+  * Configured Oracle Enterprise Manager (OEM) Grid Control (in Oracle 11g, 10g) for the purpose of monitoring multiple databases and application servers
+  * Proficient in complete, incomplete recovery of the database, Point in Time Recovery (PITR), and Tablespace Point in Time Recovery (TSPITR) using RMAN utility
+  * Knowledge of Database Recovery Techniques and implementation of those recovery techniques to ensure business continuity
+  * Expertise in maintaining Database Security using auditing
+- Worked at Chase Bank, Chicago, IL
+  * Utilized explain plan and Oracle optimizer to improve SQL statements performance
+  * Handled and monitored tablespace and data files mount point growth
+  * Conducted user requirements and troubleshooting activities and promptly addressed connectivity issues
+  * Led the execution and maintenance of daily backup and archived data on tape, while developing user accounts as well as system and user-level database objects
+  * Held accountability on data export and import through appropriate tools, as well as 11g to 12c migration
+  * Experienced in advanced primary database storage structures and objects, and operate system security for database users
+  * Tracked database instances and storage space for production environments and developed storage requests to UNIX groups
+  * Observed RMAN back-up operations and schedules as required, while controlling database and schema refresh from production to creation
+  * Fulfilled on-call DBA functions every month and assisted end users on Oracle
+  * Utilized ddl scripts to define a table using Create or alter command and dml scripts to modify table records using insert, update and delete statements to query databases
+  * Performed general DBA activities like user management, tablespace management, and security management of the databases
+  * Performed general tasks like, database patching, OEM Agent installations/patching
+  * Monitoring disk space utilizations, sizing, and capacity planning
+  * Involved in the data migration from Oracle 11g on both RAC and Non-RAC databases
+  * Experienced performing database Refresh/Cloning from production for Dev & QA environments using RMAN
+  * Installed 11g OEM agent on the servers using silent installation method
+  * Used import/export, Data Pump, to refresh databases, tables, schemas from production as when requested by the application team
+  * Performance Tuning of high volume databases
+  * Experienced in Performance tuning of a database using EXPLAIN PLAN, SQLTRACE, TKPROF, STATSPACK, AWR, ADDM
+-----------------------------------------------

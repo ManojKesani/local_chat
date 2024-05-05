@@ -1,0 +1,29 @@
+----------------------------------------------
+Name : Ankit Sethi
+Education : M.S in Computer Science, Florida State University, December 2014; B.Tech in Electronics & Communication, Kurukshetra University, August 2010
+Skills : Apache Cassandra, Cassandra, Splunk, Ipsec, Juniper, Ssl, Wireshark, Application layer, Vm, Vmware, Apache, Linux, Encryption, Firewalls, Networking, Iaas, Python, Bash, Database, Database systems
+Experience:
+- Cloud Network Engineer, Tech Mahindra, Redmond, WA, February 2016 to Present
+  * Worked on 'Sundance' project, configured, administered, and updated F5 firewalls and Load balancers
+  * Configured Site to Site VPN and IPsec over GRE for allowing access to various vendors
+  * Configured Next Gen Palo Alto VM-300 on ESXi, KVM and Open Stack based Environments using Service Chaining
+  * Automated the process of config file management and email-notifications on Arista device
+  * Worked on MX and SRX Juniper product lines
+  * Created S3 buckets and managed policies, leveraged AWS cloud services
+  * Deployed Extra hop in lab to monitor all the wire data, analyze the network performance and t-shoot issues
+  * Standardized Splunk forwarder deployment, configuration and maintenance in Linux platform
+  * Worked with REST API's to get and retrieve data from a virtualized node used to store messages
+- Database Administrator, Stone Gallery LLC, Tampa, FL, January 2015 to February 2016
+  * Streamlined the entire process of online businesses, starting from the selection of stone by the user
+  * Reviewed existing IT systems and internal processes; collected and analyzed data to identify areas for improvement within the IT infrastructure of the distribution company
+  * T-shoot and debugged IT systems to ensure error-free functionality and end-user satisfaction
+  * Effectively optimized the company's website and implemented SEO to improve the PageRank of the website
+  * Deployed Extra hop in internal lab to monitor all the wire data, analyze the network performance and t-shoot issues
+  * Launched Amazon EC2 cloud instances using AWS and configured them with respect to specific applications and regions
+- Graduate Research Assistant, Florida State Univ, Tallahassee, FL, August 2013 to August 2014
+  * Worked as a website developer for the department of Arts and Sciences at FSU
+- Software Engineer, Tech Mahindra, March 2011 to July 2012, India
+  * Worked as a software developer at Mahindra Satyam now Tech Mahindra
+- Intern, Bharat Electronics Limited, September 2010 to March 2011, India
+  * Worked on network integration of FDD LTE and CDMA systems
+-----------------------------------------------

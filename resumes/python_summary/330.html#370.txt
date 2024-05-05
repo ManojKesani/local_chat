@@ -1,0 +1,27 @@
+----------------------------------------------
+Name : Licensed Relationship Banker
+Education : Bachelor of Arts in International Politics, Pennsylvania State University, College of the Liberal Arts
+Skills : Javascript, Reactjs, Angular, HTML 5, Python, CSS, SQL, MYSQL, Series 6, Series 63, Life Insurance Consultant, Microsoft Excel, Microsoft Word, Microsoft Office Suite, Customer Service, Sales, Training & Development, Operations, Information Technology, Financial Consulting, Front-End, React
+Experience:
+- Licensed Relationship Banker, Citizens Bank - Trooper, PA
+  * Secure clients' financial futures through investments and financial planning
+  * Collaborate with partners and advisors to manage client assets
+  * Manage transactions and oversee daily operations
+  * Train and develop relationship bankers to have deeper financial conversations with bank clients
+- Associate Licensed Relationship Banker, Citizens Bank - King of Prussia, PA
+  * Provided excellent consumer services
+  * Managed client relationships ensuring their needs are met from start to finish
+  * Oversaw retirement planning
+  * Maintained client files and hold regular reviews
+- Life Insurance Agent, New York Life - Lake Success, NY
+  * Life Insurance sales
+  * Estate planning
+  * Received an Agency Builder Award for production as an agent
+- Database Administrator, XYLER - Brooklyn, NY
+  * Designed and generated invoices for account receivables
+  * Compiled data and transferred them into the company's Microsoft Access database
+  * Managed Excel applications performing data entry, tracking and creating reports
+  * Software installation for all clients
+  * Generated end-user documentation
+  * Fantastic troubleshooting skills
+-----------------------------------------------

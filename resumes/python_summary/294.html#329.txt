@@ -1,0 +1,20 @@
+----------------------------------------------
+Name : Not Provided
+Education : B.S. in Information Technology, University of Missouri - Columbia, MO (September 2009 to March 2014)
+Skills : C++, HTML, JAVASCRIPT, PERL, PostgresSQL (5 years), jQuery, PHP, Python (Less than 1 year), SQL, ExpressJS, KnexJS, HAWK, JQuery, Vagrant, VirtualBox, SourceTree, NodeJS/JavaScript, PHP, Perl, HTML, SQL (PSQL), Java
+Experience:
+- Developer and Database Administrator, AutoMatStore.com - Columbia, MO (May 2014 to Present)
+  * Designed databases based on manufacturer data files
+  * Created JSON APIs to connect databases to website and eBay
+  * Managed linux machines that hosted APIs
+  * Created "configurators" to help customers customize and complete orders
+  * Worked with SEO professionals to increase website traffic
+  * Managed relationships with marketing companies to optimize landing pages
+  * Ran custom reports and queries for company owner
+  * Wrote scripts to output files to facilitate new eBay listings
+  * Managed virtual development machines used by programmers
+- IT Technician, Women's and Children's Hospital - Columbia, MO (September 2011 to May 2013)
+  * Provided general tech support such as installing peripherals and setting up new computers/technology
+  * Resolved user challenges and troubleshot issues
+  * Worked with supervisor to prioritize tasks
+-----------------------------------------------

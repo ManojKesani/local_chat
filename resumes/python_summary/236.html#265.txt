@@ -1,0 +1,20 @@
+----------------------------------------------
+Name : Erik Burton
+Education : B.S. in Software Development, Western Governor's University 2021; Full Stack Web Development Certificate, DevPoint Labs 2014; Certification in Supply Chain Management, University of California-Riverside 2002
+Skills : Ruby on Rails, HTML 5, CSS, Github, Microsoft Office, Javascript, MySQL, Python, PHP, Selenium, Jenkins, Test Automation, TestRail, Agile, Scrum
+Experience:
+- QA Engineer, PrinterLogic, Saint George, UT (October 2016 to Present)
+  * Familiar with Ruby on Rails, PHP, Python, Scrum, Agile, Selenium, Jenkins, Test Automation, and TestRail
+- Software Developer, Franklin Covey (September 2015 to Present)
+  * Adjusted customer-requested code for company's loyalty program
+  * Revised code to update customer locations
+- Database Administrator, Franklin Covey (December 2014 to September 2015)
+  * Set up and configured new assessments through MySQL and DBVisualizer
+  * Managed and pushed SOAP feed updates on a monthly basis
+  * Assisted QA with acceptance testing and system documentation
+  * Created a new training manual and FAQ repository using Atlassian Confluence
+- Fulfillment Specialist, Boart Longyear (July 2011 to May 2014)
+  * Maintained correct levels of over 1,000 SKU's of diamond bits on hand at 13 global distribution centers
+  * Optimized inventory levels using statistical models to design min/max and reorder points, resulting in lowering on-hand inventory by approximately $4 million
+  * Used lean manufacturing to reduce lead times from three weeks to seven days, resulting in less on-hand inventory and quick delivery to customer
+-----------------------------------------------

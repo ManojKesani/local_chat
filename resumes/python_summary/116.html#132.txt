@@ -1,0 +1,19 @@
+----------------------------------------------
+Name : Kruneet Patel
+Education : 
+Master of Science in Computer Science, University of Illinois at Chicago (2017-2019)
+Bachelor of Technology in Computer Engineering, Sardar Vallabhbhai National Institute of Technology (2011-2015)
+Skills : 
+Python, C#, .NET, Java, MySQL, T-SQL, PL/SQL, HTML5, CSS, JavaScript, NodeJS, AWK, Angular JS, React JS, NoSQL, MongoDB, MarkLogic, XML, Shell Scripting, Hadoop, MapReduce, XQuery
+ASP.NET 4.5/4.0/3.5/3.0/2.0, ASP.NET MVC 5.0/4.0/3.0, ASP.NET Web Forms, Silverlight, 4.0/3.0, singlepageapplications(SPA), Ajax, .NetEntityFramework, Bootstrap, LINQ, Webservices, WebAPI, JQuery, JSON, AngularJS, HTML5, CSS, VBScript, XAML, XML, XDOCUMENT, XSLT, SAML, TPL, DLLs, PL- SQL, Mongo DB, Node JS, Azure, PCF, SSO services, XPATH, XSL
+Toad, Citrix, Git, GitHub, Selenium, Docker, Mainframe, Unix tools, Tableau, Hadoop, Informatica, ITIL platform tools, AWS, Data Studio, Cloud ML, SQL Server Reporting Services (SSRS 2008/2005), Crystal Reports (2010/9/8.5/8), UML, Rational Rose, MS Visio, MVC, WCF, WPF, Angular, ASP
+Experience:
+- Systems Engineer/ Database Administrator, Infosys (2015-2017)
+  * Worked on Banking project of Union Bank of Switzerland
+  * Coordinated and performed mass data changes by developing queries to solve data related discrepancies
+  * Experienced in design, development, coding and testing of business/commercial applications
+- Software Engineer Intern, Reliance Industries Limited (2014)
+  * Designed a 'Library Management Portal' which recorded the inventory, issue and return of books of a university library
+  * Developed stored procedures using SQL Server 2000
+  * Involved in Coding web forms using ASP.NET, C#, Java Script
+-----------------------------------------------

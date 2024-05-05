@@ -1,0 +1,18 @@
+----------------------------------------------
+Name : Aruko Bawak
+Education : 
+- Master of Science in Environmental Science and Technology, University of Kansas
+- Diploma in Computer Science, University of Gent
+- Certificate in Data Analytics, Kansas University
+Skills : 
+- MySQL, Replication, Sql, Sqlite, Javascript, D3.js, Python, Matplotlib, Numpy, Pandas, Vba, Data management, Data visualization, Machine learning, Tableau, Visualization, Excel, Performance tuning
+Experience:
+- Laboratory Analyst, Pace Analytical Services LLC, Lenexa, KS
+  * Performed complex chemical tests on soil, water, and other waste samples
+  * Logged and analyzed data revealed by lab tests and evaluated data found through complex testing processes
+  * Managed inventory supplies and served as Safety Officer to maintain safety standards and protocols
+- MySQL Database Administrator, Sciquest Jaggaer Inc, Pittsburgh, PA
+  * Maintained database security and monitored performance and managed parameters to provide fast responses to front-end users
+  * Owned and resolved problems and managed customer expectations throughout the Service Request lifecycle
+  * Migrated databases from legacy systems to MySQL and developed and implemented MySQL backup and recovery strategy
+-----------------------------------------------

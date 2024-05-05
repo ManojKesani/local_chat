@@ -1,0 +1,41 @@
+----------------------------------------------
+Name : 
+education : BS in University of Colorado CU Boulder - Boulder, CO, RF Technision Keesler Air Force Base - Biloxi, MS
+skills : Arcview (5 years), JavaScript (5 years), PHP (5 years), Python (1 year), Flask (1 year), HTML (5 years), css (5 years), Ada (2 years), DOS (10+ years), Linux (10+ years), MySQL (5 years), PostgresSQL (5 years), SQlite (4 years)
+experience:
+- Web Applications Developer at Riverside Research - Aurora, CO
+  * Design, develop, maintain, and enhance software solution for NGA Source
+  * Collaborate with operation personnel to develop innovative approaches
+  * Provide hands-on software assistance to operation teams on varying projects
+- Software Engineer at Braxton Technologies - Colorado Springs, CO
+  * Enhance performance and create new abilities for the Ground Based-Electro-Optical Deep Space Surveillance system (GEODSS)
+  * Design and Development of new Advanced Data Communication Control Procedures (ADCCP) message in the Ada programming language
+  * Cultivation of new programming language skills - ADA, and new technologies - GEODSS
+- Web Developer - Bi at Boulder, CO
+  * Wrote back-end functionality for BI company website using PHP, JavaScript, and MySQL
+  * Updated existing code for smooth operation
+  * Programs, maintains, documents and administers the Company's internal and external websites
+  * Provides technical support for the Company's internal and external websites, including troubleshooting problems and providing timely resolution
+- Database Administrator at Consistent State - Denver, CO
+  * Wrote back-end functionality for a real estate website using PHP, JavaScript, and postgreSQL
+  * Working remotely, assist in day to day database administration duties
+  * Database patch management for a research and software development company that specializes in brain science and enhanced learning
+  * Assisted in routine testing, backup and recovery, and basic troubleshooting
+  * Experience with basic PostgreSQL queries used to extract, update, and insert data
+  * Creating and updating databases, tables, constraints, and sequences
+- Government Information Analyst at Boeing - Englewood, CO
+  * Compile, analyze, format and update aeronautical data gathered from various source documents, using established processes and computational tools to create and/or maintain assets
+  * Utilize ArcGIS on a daily basis to aid in the creation of geo-spacial intelligence (GEOINT) data including research, extraction, and measurement of aeronautical hazards and aids of navigation
+  * Generate geo-spatial maps of electrical energy grids throughout the world to include the United States, Russia, and China
+- Image Analyst at DigitalGlobe - Longmont, CO
+  * Participated in the ortho-mosaic of over 1,000,000km2 of satellite imagery data for Microsoft Bing Maps website
+  * Generated basic imagery products from satellite data, performed QC and archived raw satellite data
+  * Analyzed satellite imagery to collect tie and control points, ran triangulation, processed orthos and ortho-mosaics with the Product Processor and other COTS software and reviewed the final products for accuracy and quality
+  * Evaluated GIS data such as tie and ground control and ground truth points for compliance and accuracy
+  * Performed QC checks and made corrections when necessary
+- GIS Image Analyst - AT Specialist at Microsoft - Boulder, CO
+  * Processed photogrammetric data through multi-sensor aerial triangulation including GCP measurement, processing, and final bundle adjustment
+  * Managed the orthorectification and QC process of 2,000 aerial image blocks used for Microsoft Bing Maps website
+  * Conducted troubleshooting exercises of problematic data sets and resolved processing issues and coordinated with operation, test, and development personnel regarding issues impacting production
+  * Created, maintained QC of, and modified ortho-rectified mosaics
+-----------------------------------------------

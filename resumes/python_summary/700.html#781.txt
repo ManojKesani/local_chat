@@ -1,0 +1,42 @@
+----------------------------------------------
+Name : [Not Provided]
+Education : B.S. in Computer Science, Johns Hopkins University 2007
+Skills : database (3 years), Html (1 year), Malware (4 years), Python (4 years), Unix (1 year), C, C++, Java, JavaScript, PHP, Angular, IDA Pro, IDA python, Linux, Oracle, Sybase
+Experience:
+- Vulnerability Research, April 2019 to Present
+  * Helped to create Reverse Engineering training program
+  * Vulnerability Research on IoT devices
+- Parsons, September 2017 - March 2019
+  * Reverse Engineer
+  * Malware analysis and lab setup
+  * Generation of Reverse Engineering training materials
+- General Dynamics Mission Systems, December 2014 to September 2017
+  * Reverse Engineer
+  * Malware analysis including deducing what a given threat is designed to do and how it interacts with the environment it is run in
+  * Tooling to automate malware analysis such as string decoders, configuration parsers, and network traffic decoders
+- General Dynamics Mission Systems, December 2014 to March 2016
+  * Lead software developer on the production of a windows filter driver
+  * Lead software developer on a mission critical program responsible for submission of malware and workflow of exams to be done on the processed submissions
+  * Lead software and full stack developer for a web utility that facilitates the notification of critical events to critical personnel
+  * Shadowing a Reverse Engineer in the Intrusions Section of the Defense Computer Forensics Laboratory on the use of Dshell and pcap analysis
+- Bank of America, November 2012 to May 2014
+  * Software Contractor
+  * Software developer working with the CLMS/TSS and Online Fraud Detection Groups
+  * Server setup and configuration, database management, Unix shell scripting, PowerBuilder programming, and database interface software in Java
+  * Functioned as a primary interface point with the other support teams at BAC
+  * Working knowledge of Actimize Fraud detection products
+  * Provided problem investigation and troubleshooting for the development environments by the team
+- Textron AAI, December 2007 to February 2012
+  * Software Engineer
+  * Performing design, generating code, and performing test of updates to the Shadow Unmanned Air Vehicle (UAV) onboard aircraft control computer
+  * Programming in a real-time distributed architecture in C and included use of communication protocols and generation of software to control aircraft components
+  * Generation of software test tools used in UAV hardware checkout
+- Textron AAI, March 2007 to May 2007
+  * Engineering Internship
+  * Software Engineer on the T25 Simulator for Electronic Combat Training (T25 SECT) Program
+  * Implemented a prototype for the APN-242 radar simulation used in navigation radar training
+- Center for Educational Resources, Johns Hopkins University, 2005
+  * Database Administrator
+  * Designed a back-end component for a Java/SQL-based course management system for biology students at the Krieger School of Arts and Sciences
+  * Acted as a database administrator
+-----------------------------------------------

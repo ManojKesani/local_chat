@@ -1,0 +1,17 @@
+----------------------------------------------
+Name : 
+education : Bachelors of engineering in Computer Science, CLEVELAND STATE UNIVERSITY - Cleveland, OH December 2018
+skills : Oracle Dba (2 years), Sql Server (2 years), Sql Dba (2 years), DBA (2 years), MYSQL (3 years), Web Development (5 years), Database Management (2 years), Python (2 years), Sql Database (4 years), Oracle Database, Java (4 years), Javascript (4 years), HTML 5 (7 years), CSS (7 years), Linux (4 years)
+experience:
+- Database Administrator, Sherwin Williams - Cleveland, OH 2015 to 2017
+  * Developed database webapps by planning and executing design, maintaining and upgrading service for clients.
+  * Planned data analysis applications by clarifying goals, designing functionality to be user friendly.
+  * Collaborated with team members to correctly categorize content, funneling traffic more efficiently.
+  * Created and maintained underlying database schemas for the optimal data analytics.
+  * Deliberated and documented application structures to lower overhead for support.
+- Mobile Phone Sales Consultant, Best Buy - Strongsville, OH 2014 to 2015
+  * Assisted customers in choosing a phone and price plan that best fits their lifestyle, along with their budget.
+  * Kept current with the rapidly changing phone plans, along with current technology, informing customers of changes and encouraging upgrades.
+  * Created and sustained customer relationships as they maintained and upgraded their electronics.
+  * Maintained an organized store, along with preventing theft of merchandise, minimizing loss.
+-----------------------------------------------

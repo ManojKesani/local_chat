@@ -1,0 +1,41 @@
+----------------------------------------------
+Name : Lynnwood
+Education : B.S in Computer Information Systems California State University, San Marcos - San Marcos, CA May 2016, A.S in Computer Information Systems Mt. San Jacinto College - Menifee, CA May 2013
+Skills : JavaScript, React, Node, Express, MongoDB, SQL, Redux, JSON, CSS, SASS, Adobe XD, Python, Django, Docker, Linux, AWS, Apollo, GraphQL, Front-End, Front End, HTML5, UI
+Experience:
+- Full Stack Developer at PwC - Seattle, WA
+  * Worked alongside an award-winning team to build an enterprise web application
+  * Focused on front-end development using React, JavaScript, and GraphQL
+  * Implemented pixel-perfect styling using LESS and Semantic
+  * Crafted data visualizations using D3 and Nivo
+  * Customized and extended Semantic elements using Storybook
+- Full Stack Developer at MovementX - Seattle, WA
+  * Worked directly with a team of doctors of physical therapy to provide solutions for their revolutionary HIPAA compliant health platform
+  * Implemented Stripe payment handling, Google Sheets API read/write, e-mail automation, and onboarding process overhauls
+  * Constructed a Gatsby, React, and GraphQL based blog for SEO and campaigning
+- Lead Front End Developer at Stackend Solutions - Seattle, WA
+  * Led front-end architecture and development for various web applications
+  * Worked with React, Redux, Redux Thunk, JavaScript, HTML5, Styled Components, and Docker Compose
+  * Spearheaded definition and assignment of front-end tasks, recommended technologies, and led team meetings
+- Front End Developer (Contract) at Cobia Systems - Seattle, WA
+  * Designed and built front-end features for a digital marketing web app
+  * Utilized React, Redux, JavaScript, HTML5, and SCSS
+- Web Contractor at Literally Media - Seattle, WA
+  * Worked with editorial and web development teams to establish a gaming vertical
+  * Focused on UX, QA, and SEO-oriented objectives
+- Executive Editor at Evolve Media, LLC
+  * Directed and grew two gaming websites
+  * Utilized Google Analytics to devise strategies and debugged technical issues
+  * Edited and led SEO efforts, established relationships with PR, and led staff
+- Project Manager at Northrop Grumman, CSUSM
+  * Worked with a team of five students to create an Apache, CentOS, and MariaDB based reporting system
+  * Followed joint application design format with scheduled customer meetings
+- Assistant Database Administrator at Adrylan Communications, Inc
+  * Managed student, faculty, and test records in a MySQL database for multiple K-12 districts
+  * Tested proprietary software alongside programmers and provided internal IT support
+- Technical Editor at Pearson North America
+  * Edited a hardware book published in 2012
+- Server Admin/Support Technician at Conduit Networks, Inc
+  * Provided technical support for 15 clients in Riverside County
+  * Designed and implemented a full system maintenance plan for 7 clients
+-----------------------------------------------

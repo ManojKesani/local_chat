@@ -1,0 +1,23 @@
+----------------------------------------------
+Name : Application Developer
+Education : B.S. in Computer Science, St. John Fisher College
+Skills : Db2, Jdbc, Sql server, Sql, Visual studio, Api, C++, Docker, Git, Html, Javascript, Typescript, Jenkins, Json, Python, Scripting, Svn, Visual basic, Xml, Xsl, Linux
+Experience:
+- Application Developer, Mizuho Bank (March 2019 to Present)
+  * Played a key role in leading research and development of conversion of a large java application to IBM Integration Bus v10
+  * Developed and tested a large file transfer application
+- Application Developer, Bank of America (August 2018 to March 2019)
+  * Led research and development in automated deployments for a large routing application developed in IBM Integration Bus v10
+  * Created shell scripts and Jenkins pipelines for the application to trigger continuous integration
+- Lead Consultant, Crypto Centric Blockchain Networks (April 2018 to July 2018)
+  * Led blockchain research and development
+  * Implemented blockchain software for a real estate startup company dealing with tokenization of property assets
+- Integration Specialist, Leveraging Technology (2012 to April 2018)
+  * Led technology research and presented market opportunities to senior leadership
+  * Member and leader of development teams for numerous enterprise and application integration projects
+  * Designed, architected, developed, and implemented various applications and integration solutions for financial services, healthcare, and pharmaceutical industries
+- Database Administrator, Thomas and Solomon LLP (2011 to 2012)
+  * Maintained availability and integrity of data in Microsoft SQL Server
+  * Designed front-end interfaces
+  * Designed and executed queries to filter information for paralegals/lawyers
+-----------------------------------------------

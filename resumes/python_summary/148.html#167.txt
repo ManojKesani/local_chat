@@ -1,0 +1,11 @@
+----------------------------------------------
+Name : Not Provided
+Education : BSc. in Computer Science, University of North Carolina at Asheville - Asheville, NC (August 2016 to May 2019), BSc. in Computer Science, University of North Carolina at Charlotte - Charlotte, NC
+Skills : Sql, Html, Javascript, Python, Css, Java, R, JavaScript, HTML, CSS, Agile, Waterfall, Tableau, MS Office Suite, Eclipse, Netbeans, PyCharm, Jupyter Notebook, Windows, Android, iOS
+Experience:
+- Worked at Henderson County's IT department (August 2016 to May 2019)
+  * Held multiple IT related titles: Administrator(s), Computer Technician, Database Administrator (SQL), and Web Developer/GIS
+  * Worked as a Coordinator (JavaScript, HTML, CSS)
+- Worked at Group Home (June 2015 to August 2015)
+  * Scanned, edited, emailed, and filed documents
+-----------------------------------------------

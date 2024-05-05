@@ -1,0 +1,18 @@
+----------------------------------------------
+Name : 
+education : Bachelor's in Computer Science University of Delaware February 2013 to December 2015, Associate University of Delaware September 2011 to February 2013, High school or equivalent Charter School of Wilmington May 2011
+skills : MYSQL, REPLICATION, SQL, SQLITE, SYBASE, C#, C/C++, C++, Git, PERL, PHP, PYTHON, SCRIPTING, SVN, LINUX, UNIX, GNU, LUA, JIRA, VMWARE, DBA, Postgresql
+experience:
+- Database Administrator/Developer at BlackRock Inc - Wilmington, DE
+  * Developed, implemented, and maintained automation to create new client dataservers in batch, with greater consistency and without requiring institutional knowledge
+  * Developed three full-stack WebUI applications to help with managing dataservers in bulk
+  * Author of a new API and taxonomy system for tagging and identifying tagged servers
+- Software Engineer/Support Escalation at SevOne Inc - Wilmington, DE
+  * Member of the NetFlow monitor development team
+  * Sole creator of an internally-used automated performance testing tool using LXC to test multiple branches of our Operating System distribution on the same piece of hardware
+  * Major volunteer to the Support Escalation team following a regression-heavy update
+- Cashier at Bachetti Brothers - Wilmington, DE
+  * Four years experience in sales in a customer-focused environment
+  * Main technical adviser to owner, performed basic IT services
+  * Assisted in setup, installation, and maintenance of new SQL-based cash register systems
+-----------------------------------------------

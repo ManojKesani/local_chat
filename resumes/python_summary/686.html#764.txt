@@ -1,0 +1,25 @@
+----------------------------------------------
+Name : Not Provided
+Education : Information Technology graduate
+Skills : Sql, Python, Vba, Networking, Tcp/ip, Tcp, Data analytics, Linux, Software troubleshooting
+Experience:
+- Customer Support Agent at Data Research Group, Raleigh, NC
+  * Proactively built relationships with 54 clients through solving their day-to-day issues or questions
+  * Used SQL database knowledge to create custom reports to meet client's needs
+  * Traveled across the country to integrate clients from their current platform to our platform
+  * Scheduled training with clients to teach them in becoming efficient in our user interface platform
+  * Kept a 100% satisfactory rating with every client
+- Software Engineer at Virginia Tech, Blacksburg, VA
+  * Solved CarMax transportation inefficiency through analyzing previous data and collaborating with other students
+  * Utilized CarMax database and VBA to create a user interface and map to show the most optimal route
+  * Briefed CarMax employees on key finds and solutions to transportation inefficiency
+  * Placed 3rd out of over 60 teams
+- IT Administrator Intern at Klockner Pentaplast, Gordonsville, VA
+  * Responded to queries, ran diagnostic programs, isolated problems, and determined and implemented solutions
+  * Used Hardware/Software knowledge to complete new component installations for clients
+  * Apprenticed under head network engineer to successfully replace off-site servers
+- Database Management and Computer Tech at Combat Engineering International, Orange, VA
+  * Worked hands-on in manufacturing plants to ensure parts and products were completed and sent on schedule
+  * Created a database of thousands of potential clients to efficiently market products and services
+  * Directly worked with the owner to ensure his vision was successfully realized through aggressive marketing campaigns
+-----------------------------------------------

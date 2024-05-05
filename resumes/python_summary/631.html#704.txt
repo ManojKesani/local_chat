@@ -1,0 +1,26 @@
+----------------------------------------------
+Name : Senior Data Analyst, IT Vendor Relations Manager
+Education : B.B.A. in Information Systems, Loyola University Chicago, Quinlan School of Business (2011-2015), Lycée Louis Querbes - Rodez, FR (2010)
+Skills : Data Analysis (6 years), Database Design (6 years), Microsoft Access (6 years), C# (2 years), VBA (6 years), Microsoft Excel (8 years), Excel (8 years), Microsoft Office (8 years), Sales (4 years), MySQL (2 years), Tableau (4 years), Database Administration (6 years), Relational Database Design (6 years), IT Vendor Relations Management (2 years), Database Management (6 years), SSMS (4 years), SSRS (4 years), Visual Studio (4 years), Visual Basic (2 years), Adobe Photoshop (3 years), Adobe Illustrator (2 years), Data Mining (6 years), French (10+ years), Python (1 year)
+Experience:
+- Senior Data Analyst, IT Vendor Relations Manager, NKSFB, LLC - Los Angeles, CA (July 2016 to Present)
+  * Built applications in Visual Studios to streamline financial, operational and administrative tasks and overall work flows
+  * Effectively managed multiple time-sensitive analytical and operations projects, maintaining accuracy and surpassing expected completion times
+  * Designed queries and reports to analyze business data; identifying patterns, uncovering opportunities and solving problems before they arise
+  * Partnered with the IT Architect to improve server efficiency, data schemas, modeling and visualization in SQL Server
+- Reporting Analyst, Strategic Financial Solutions - New York, NY (March 2015 to July 2016)
+  * Headed up previously non-existent reporting team tasked with providing analytics to executive staff
+  * Established new data structure for all sales and employee data in MS Access to provide more versatile analysis of company's dataset
+  * Created comprehensive ad-hoc reports in Excel capable of pulling data from the network and SalesForce via MS Access, allowing user to model data dynamically
+  * Developed and implemented dashboards in Tableau for live tracking of sales and employee KPIs
+- Database Administrator, Allstate - Chicago, IL (October 2014 to March 2015)
+  * Developed automated reports in MS Access, allowing users to specify custom parameters via macros run from a user interface
+  * Identified and resolved issues with existing database schemas
+  * Assisted in transition of all data from MS Access to MySQL server
+  * Assisted Senior Database Administrator by tracking all outstanding issues via MS Excel and provided weekly updates to staff on issues resolved and forthcoming changes and fixes
+- Accounting Administrator, Brown Kaplan + Liss LLP - Evanston, IL (January 2014 to August 2014)
+  * Processed accounts payable and accounts receivable using QuickBooks
+  * Assisted staff accountants with preparation of individual, corporate, and partnership tax returns for clients
+  * Assisted with quarterly P&L for the firm
+  * Worked closely with reporting team to provide senior staff with weekly, monthly, & quarterly performance reports
+-----------------------------------------------

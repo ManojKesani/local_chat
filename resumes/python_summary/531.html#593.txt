@@ -1,0 +1,25 @@
+----------------------------------------------
+Name : Not Provided
+Education : Bachelor of Science in Computer Science and Pure Mathematics and Information Technology, Lipscomb University
+Skills : C#, Html, Javascript, Php, Python, Software development, Database, Css, Dreamweaver, Web design, Java, jquery, Corona sdk, Lua, Assembly language, Selenium, Ftp, Customer service, Database management, Excel, Microsoft Office (Outlook, Word, PowerPoint, Excel, FrontPage), Photoshop, CorelDraw, JavaScript, jQuery, Processing, Corona SDK, FTP, Selenium, RedwoodHQ, Gatling, Fiddler, Salesforce ticket management system
+Experience:
+- Software Engineering - QA Analyst, CBS Interactive - 247sports, Nashville, TN
+  * Tested applications (website) manually and with automated test cases
+  * Reviewed site performance and suggested improvements
+- Software Engineering - QA Intern, CBS Interactive - 247sports, Brentwood, TN
+  * Tested applications (website) manually and with automated test cases
+- Tutor, Lipscomb University, Nashville, TN
+  * Tutored students in areas like programming (Python, C#, Java, HTML, CSS)
+- Help Desk, Lipscomb University, Nashville, TN
+  * Provided customer service
+- Database Administrator and application designer, Lipscomb University, Nashville, TN
+  * Designed and managed databases
+- Undergraduate Research Assistant (LUCID Initiative), Lipscomb University, Nashville, TN
+  * Assisted in research projects
+- Help Desk, Lipscomb University, Nashville, TN
+  * Provided customer service
+- Digital Content Specialist/ Web Content Manager (Student Worker), College of Liberal Arts and Science, Lipscomb University, Nashville, TN
+  * Managed digital content and web design
+- Mobile Application Development Team, Pulse Education
+  * Developed mobile applications
+-----------------------------------------------

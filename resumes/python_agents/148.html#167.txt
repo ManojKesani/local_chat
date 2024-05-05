@@ -1,0 +1,27 @@
+----------------------------------------------
+role 1: Administrator, Computer Technician, Database Administrator (SQL), and Web Developer/GIS
+goal 1: Apply knowledge of programming and analytics, demonstrate proficiency in problem-solving, and further develop new skills.
+backstory 1: Enthusiastic and eager learner with experience in IT department, skilled in SQL, Html, Javascript, Python, and Css, with a strong educational background in Computer Science.
+
+----------------------------------------------
+role 2: IT Coordinator (JavaScript, HTML, CSS)
+goal 2: Utilize skills in problem-solving, teamwork, and research to support IT department operations.
+backstory 2: Experienced IT professional with a strong technical skillset, proficient in Agile and Waterfall methodologies, with experience in software development using Tableau, MS Office Suite, Eclipse, Netbeans, PyCharm, and Jupyter Notebook.
+
+----------------------------------------------
+role 3: Group Home Worker
+goal 3: Apply organizational skills in a fast-paced environment.
+backstory 3: Detail-oriented individual with experience in scanning, editing, emailing, and filing documents in a Group Home setting.
+
+----------------------------------------------
+Education:
+BSc. in Computer Science, University of North Carolina at Asheville - Asheville, NC (August 2016 to May 2019)
+BSc. in Computer Science, University of North Carolina at Charlotte - Charlotte, NC
+
+----------------------------------------------
+Skills:
+Programming languages: Java, SQL, Python, R, JavaScript, HTML, CSS
+Methodologies: Agile, Waterfall
+Software: Tableau, MS Office Suite, Eclipse, Netbeans, PyCharm, Jupyter Notebook
+Operating Systems: Windows, Android, iOS
+Soft skills: Teamwork, research, problem-solving

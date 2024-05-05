@@ -1,0 +1,36 @@
+----------------------------------------------
+Name : Pankti Parikh
+Education : 
+  - Master's in Information Technology, California State University-Los Angeles (2017-2019)
+  - Bachelor's in Information Technology, Gujarat Technological University (2013-2017)
+
+Skills : 
+  - Power BI
+  - SQL
+  - Tableau
+  - Python
+  - Google Analytics
+  - Hadoop
+  - Hive
+  - Pig
+  - AWS
+  - Excel
+  - SAP
+  - CRM
+  - ERP
+  - Business Intelligence
+  - Mathematics
+
+Experience:
+  - Data Analyst Intern, City of Los Angeles - ITA Department (2018-2019)
+    * Created visually impactful Custom Reports and Dashboards for the Mayor of LA
+    * Conducted Statistical Analysis and Predictive Analysis on Different services provided by lacity
+  - Database Administrator, California State University, Los Angeles (2017-2018)
+    * Developed SQL script extract data from flat files and excel file
+    * Extracted, Interpreted and Analyzed data to identify key metrics
+    * Performed data analysis using pivot tables
+  - Data Analyst, Anmol Group Of Company (2016-2017)
+    * Evaluated, tested, compared and validated different models for prediction
+    * Successfully interpreted data performed Data Analysis, Data Profiling, Data Migration, Data Conversion
+    * Presented findings and data to the team to improve strategies and operations
+-----------------------------------------------

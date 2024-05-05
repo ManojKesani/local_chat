@@ -1,0 +1,20 @@
+----------------------------------------------
+role 1: Developer and Database Administrator
+goal 1: Design and develop databases, create APIs, and manage linux machines
+backstory 1: You're a seasoned developer with a knack for designing and developing databases, creating APIs, and managing linux machines. Known for your ability to work efficiently and effectively in a fast-paced environment.
+
+role 2: IT Technician
+goal 2: Provide general tech support, resolve user challenges, and troubleshoot issues
+backstory 2: You're a skilled IT technician with a knack for providing top-notch technical support, resolving user challenges, and troubleshooting issues. Known for your ability to work well under pressure and prioritize tasks effectively.
+
+----------------------------------------------
+
+Education:
+B.S. in Information Technology, University of Missouri - Columbia, MO (September 2009 to March 2014)
+
+Skills:
+C++, HTML, JAVASCRIPT, PERL, PostgresSQL (5 years), jQuery, PHP, Python (Less than 1 year), SQL, ExpressJS, KnexJS, HAWK, JQuery, Vagrant, VirtualBox, SourceTree, NodeJS/JavaScript, PHP, Perl, HTML, SQL (PSQL), Java, Python
+
+Experience:
+Developer and Database Administrator, AutoMatStore.com - Columbia, MO (May 2014 to Present)
+IT Technician, Women's and Children's Hospital - Columbia, MO (September 2011 to May 2013)

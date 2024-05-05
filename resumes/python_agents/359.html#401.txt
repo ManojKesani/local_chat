@@ -1,0 +1,49 @@
+----------------------------------------------
+Name: Tanaruno Ajiri Dennis
+Education: B.Eng. in Mechanical Engineering, University of Benin
+Skills: 
+• SSIS (7 years)
+• MICROSOFT SSRS (5 years)
+• Python (4 years)
+• SQL (8 years)
+• JIRA (5 years)
+• Confluence (4 years)
+• MDX (4 years)
+• TFS (4 years)
+• Tableau (5 years)
+• Tableau server (5 years)
+• Excel
+• Business Intelligence
+• Microsoft Office
+• MS Office
+• Powerpoint
+• Visio
+• HTML
+• SAP
+• Informatica (5 years)
+• Microsoft Azure (4 years)
+• Power BI (3 years)
+• JIRA (3 years)
+• GitHub (4 years)
+• Redgate (5 years)
+• C# (3 years)
+• Powershell (3 years)
+• APIs (4 years)
+• Data Mining (6 years)
+• MS Azure (4 years)
+
+Experience:
+• Data Developer/Power BI Admin, Parsley Energy - Austin, TX (August 2017 to Present)
+• Data Analyst/Business Analyst/Tableau Developer, Schlumberger PLC - Houston, TX (February 2015 to July 2017)
+• Database Administrator/Data Analyst, United Bank of Africa (July 2014 to February 2015)
+• IT/ Database Administrator, Tano Agency and Shipping Co Ltd Nig (February 2014 to July 2014)
+• IT Administrator (Intern), Nosak Distilleries Ltd Nig (July 2012 to December 2012)
+
+Certifications/Licenses:
+• Tableau 10 desktop qualified associate
+• Microsoft SQL server Certified Associate
+• Python Certificate of Completion from Datacamp
+• R Programming Certificate of Completion from Datacamp
+• Power BI Administrator
+• Informatica cloud IICS 101 & 201 course certificates
+• Power BI Developer certificate from Microsoft Gold Partner

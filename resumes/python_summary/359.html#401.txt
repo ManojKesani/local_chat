@@ -1,0 +1,69 @@
+----------------------------------------------
+Name : Tanaruno Ajiri Dennis
+Education : B.Eng. in Mechanical Engineering, University of Benin, March 2014
+Skills : 
+* SSIS (7 years)
+* MICROSOFT SSRS (5 years)
+* Python (4 years)
+* SQL (8 years)
+* JIRA (5 years)
+* Confluence (4 years)
+* MDX (4 years)
+* TFS (4 years)
+* Tableau (5 years)
+* Tableau server (5 years)
+* Excel
+* Business Intelligence
+* Microsoft Office
+* MS Office
+* Powerpoint
+* Visio
+* HTML
+* SAP
+* Informatica (5 years)
+* Microsoft Azure (4 years)
+* Power BI (3 years)
+* JIRA (3 years)
+* GitHub (4 years)
+* Redgate (5 years)
+* C# (3 years)
+* Powershell (3 years)
+* APIs (4 years)
+* Data Mining (6 years)
+* MS Azure (4 years)
+
+Experience:
+- Data Developer/Power BI Admin, Parsley Energy, Austin, TX, August 2017 to Present
+  * Provided ad-hoc reports and solutions to the business based on the business user request involving data of various type, schema, and size.
+  * Implemented modern tools and software for a swift response to business user request and also established an efficient adoption and transition process.
+  * Automated pre-existing manual processes with data related solutions leveraging scripting languages, precisely Power Shell and C#, to free up bandwidth resources for the business.
+  * Managed and supervised data migration processes from various EDM software across systems and consolidated this data in the data warehouse.
+  * Implemented and scheduled Salesforce data synchronization packages with Informatica Integration tool leveraging API connectors and JAMS scheduler.
+
+- Data Analyst/Business Analyst/Tableau Developer, Schlumberger PLC, Houston, TX, February 2015 to July 2017
+  * Gathered user requirements, analyzed and designed software solution based on the user requests.
+  * Accessed and transformed massive data sets through filtering, grouping, aggregation, and statistical calculation.
+  * Created interactive filters, parameters and calculated sets for preparing dashboards and worksheets in Tableau.
+
+- Database Administrator/Data Analyst, United Bank of Africa, July 2014 to February 2015
+  * Provided Row and column level security.
+  * Created Optimized Ad-hoc queries using Hints to leverage the best execution plan.
+  * Used profiler tracing and tuning advisor to improve SQL server performance.
+
+- IT/ Database Administrator, Tano Agency and Shipping Co Ltd, Nigeria, February 2014 to July 2014
+  * Developed Tableau visualizations and dashboards using Tableau Desktop.
+  * Built, published and customized interactive reports and dashboards, report scheduling using Tableau server.
+
+- IT Administrator (Intern), Nosak Distilleries Ltd, Nigeria, July 2012 to December 2012
+  * Worked with a team of developers and designed, developed and implemented a BI solution for Sales, Product, and Customer KPIs.
+  * Resolved SQL and multi-threaded server tuning issues.
+  * Generated and tabulated reports using Ms Excel, Ms Access and SQL queries.
+
+Certifications/Licenses:
+* Tableau 10 desktop qualified associate, March 2017 to Present
+* Microsoft SQL server Certified Associate, 2014 to Present
+* Python Certificate of Completion from Datacamp, July 2017 to Present
+* R Programming Certificate of Completion from Datacamp, July 2017
+* Power BI Administrator, Present
+* Informatica cloud IICS 101 & 201 course certificates, Present
+* Power BI Developer certificate from Microsoft Gold Partner, November 2018 to Present

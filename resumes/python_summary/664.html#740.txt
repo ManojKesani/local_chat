@@ -1,0 +1,21 @@
+----------------------------------------------
+Name : Not Provided
+Education : Bachelor's in Software Engineering And Computer Science, Rose-Hulman Institute of Technology, Terre Haute, IN (August 2011 to June 2015)
+Skills : Apache Kafka (2 years), Hadoop (3 years), Docker (2 years), Java (5 years), Python (4 years), Ansible (2 years), Git (4 years)
+Experience:
+- Hadoop & Kafka Administrator, Austin, TX (March 2017 to Present)
+  * Administered and maintained a hybrid cloud environment between a 100+ node on-premise Hadoop cluster, multiple 5-20 node Kafka clusters, and several cloud environments for a vacation rental company.
+  * Provided business hour support through company Slack channels with regards to general questions, maintenance notifications, and debugging assistance.
+- Staff Consultant, Avalon Consulting, LLC - Austin, TX (June 2015 to Present)
+  * Became familiar with creating repeatable builds of software solutions through the combinations of Bash, Ansible, Vagrant, and Docker.
+  * Developed multiple demos using Elasticsearch, Logstash, Kibana, and Bests (the ELK stack) for textual and visual analysis on structured datasets.
+- Hadoop EDW Offloader, Dallas, TX (February 2017 to March 2017)
+  * Offloaded a multinational Arts and Crafts retailer's Oracle database to the Cloudera CDH Platform in AWS, and reduced the runtime of an Oracle Pro*C ETL process from 5 hours to within a 30 minute window using a combination of Apache Impala and the Parquet data format.
+- Apache Spark Streaming Developer, Austin, TX (September 2016 to November 2016)
+  * Built a Spark Streaming ETL pipeline for payment transaction documents made available on HDFS and processed through to Kafka and into MemSQL, Hive, and ElasticSearch.
+- Graph Database Developer, Austin, TX (August 2016 to September 2016)
+  * Researched differences in Neo4j and OrientDB graph databases while translating relational, tabular data into a format more suitable for a graph.
+- Apache Spark MLlib Developer, Austin, TX (May 2016 to August 2016)
+  * Used Apache Spark MLlib to refine an iterative Random Forest algorithm to categorize issues reported though a help-desk system.
+
+-----------------------------------------------

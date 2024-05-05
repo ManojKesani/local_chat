@@ -1,0 +1,47 @@
+----------------------------------------------
+Name : John G. Muchiri
+Education : 
+  - Master's in Computer Science, University of Illinois at Springfield (2015-2019)
+  - Master's in Computer Science, Loyola University Maryland (2012-2014)
+  - Bachelor's in Nursing, University of Maryland-Baltimore (2011-2013)
+
+Skills : 
+  - PHP (10+ years)
+  - MySQL (10+ years)
+  - HTML (10+ years)
+  - Javascript (10+ years)
+  - SQL Server & Database (4 years)
+  - CSS (10+ years)
+  - React (1 year)
+  - Python (3 years)
+  - Linux (7 years)
+  - NoSQL Databases (1 year)
+  - Laravel (4 years)
+  - DBA
+  - Sql Database
+  - Sql Server
+  - Sql Dba
+  - Front End
+  - Wordpress
+  - HTML5
+
+Experience:
+  - Tech Lead/Developer, A&M Digital Technologies, LLC (2015-Present)
+    * Managed teams of up to 8 developers while overseeing up to 10 concurrent client projects with budgets up to $200K
+    * Assessed stakeholder needs, determined technical objectives, created project plan, scope, schedule and budget, acquired and subcontracted developers and managed product lifecycle and application development projects
+    * Designed and executed company infrastructure for development, remote collaboration and client support, developed bug fixes and patch sets for existing web applications
+    * Consistently delivered client value, saved customer $25K per week in non-productive hours after creating application tool that better tracked employee hours and productivity
+  - Database Administrator, U.S. Army (2015-Present)
+    * Maintained, monitored and troubleshot network systems and databases supporting 600-person organization
+    * Provided technical support, monitored and troubleshot technical errors and maintained specialized maintenance software and databases used by 350+ technicians, mechanics and pilots
+    * Maintained intranet and web applications that ensured accountability of up to $5M of critical equipment, improved equipment tracking capability more than 50% and eliminated the use of paper records
+    * Planned and managed new software/hardware roll-outs, upgrades and revisions for up to 100 devices and 350 end-users
+    * Enforced data integrity, protected information security and controlled network and computer systems access
+  - Full-stack Web Developer, Freelance/Self-employed (Present)
+    * Developed, configured and troubleshot web applications, websites and web servers for 20+ major projects for various clients
+    * Developed front-end and back-end web applications for individual clients and companies using PHP, HTML, CSS and JavaScript/jQuery in collaboration with clients from concept through final delivery of product or service
+    * Audited hosting platforms and web applications for security vulnerabilities, recently uncovered mortgage loan vendor's security vulnerability that could have exposed customer's accounts and PII, recommended corrective measures
+    * Managed projects of varying scope and schedule, up to $40K budgets and multi-year project schedule for software products ranging from maintenance management to hotel booking and resume writing software
+  - Helicopter Technician, U.S. Army (2014-2015)
+
+-----------------------------------------------

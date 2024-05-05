@@ -1,0 +1,24 @@
+----------------------------------------------
+Name : Database Specialist and User Support Analyst
+Education : 
+- Certificate in Data Analysis, University of Denver - Denver, CO
+- Master's in Management of Information Systems, Oakland University - Rochester, MI
+- Bachelor's in Finance, St. John's University - Queens, NY
+Skills : 
+- Data Manipulation, databases, Excel, HTML, JavaScript, MICROSOFT ACCESS, MongoDB, MS Access, MS SQL SERVER, mySQL, Python, SQL, SQL server, Visualization, DBA, ETL, Tableau, XML, T-SQL, VBA, SSRS, SSIS, Sql Dba
+Experience:
+- Database Specialist and User Support Analyst, Medtronic - Boulder, CO (2018 to Present)
+  * Analyzing and troubleshooting SQL databases to identify issues and fine tune for optimal performance
+  * Administering & deploying Windows Servers and administering virtual environments with vSphere
+  * Engage Product Development by submitting requests for new features and security patches
+  * Load data from database to data warehouse using SSIS
+- Clinical Systems Administrator, Western Nephrology - Wheat Ridge, CO (2017 to 2018)
+  * Delivered reports and data analytics using Excel, Tableau and SSRS to medical providers for patient treatment options
+  * Designed and configured templates, workflows, testing and implementation of EMR-related solutions
+  * Responsible for design/redesign of building, testing and validating application functionality as appropriate
+  * Provided technical and analytical support for the cloud based Electronic Medical Records application and company HIPAA privacy and security oversight
+- IT Analyst, Kaiser Permanente - Denver, CO (2009 to 2017)
+  * Provided support for pre- and post-release of critical system applications
+  * Delivered operational support for new patient-facing education and entertainment system
+  * Engaged Change Management by submitting change requests for new features and security patches
+-----------------------------------------------

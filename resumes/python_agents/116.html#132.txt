@@ -1,0 +1,26 @@
+----------------------------------------------
+role 1: Systems Engineer/Database Administrator
+goal 1: Utilize expertise in software development, database administration, and cloud technologies to drive business growth
+backstory 1: As a seasoned Systems Engineer and Database Administrator with a strong educational background in Computer Science and Computer Engineering, I leverage my proficiency in a wide range of programming languages, web technologies, and databases to design, develop, and deploy scalable and efficient solutions.
+
+----------------------------------------------
+role 2: Software Engineer Intern
+goal 2: Develop innovative software applications utilizing cutting-edge technologies
+backstory 2: With a strong foundation in computer science and engineering, I applied my skills in software development, database management, and web technologies to design and develop a 'Library Management Portal' that efficiently managed inventory, issue, and return of books for a university library.
+
+----------------------------------------------
+Name: Kruneet Patel
+Education: 
+- Master of Science in Computer Science, University of Illinois at Chicago (2017-2019)
+- Bachelor of Technology in Computer Engineering, Sardar Vallabhbhai National Institute of Technology (2011-2015)
+
+Skills:
+- Programming languages: Python, C#, .NET, Java, MySQL, T-SQL, PL/SQL, HTML5, CSS, JavaScript, NodeJS, AWK
+- Web Technologies: ASP.NET, ASP.NET MVC, ASP.NET Web Forms, Silverlight, Ajax, .Net Entity Framework, Bootstrap, LINQ, Web Services, WebAPI, JQuery, JSON, AngularJS, HTML5, CSS
+- Databases: MongoDB, MarkLogic, XML, Shell Scripting, Hadoop, MapReduce, XQuery
+- Cloud: Docker, Git, Hadoop, AWS, Data Studio, Cloud ML
+- Tools: Toad, Citrix, Git, GitHub, Selenium, Docker, Mainframe, Unix tools, Tableau, Hadoop, Informatica, ITIL platform tools, UML, Rational Rose, MS Visio
+
+Experience:
+- Systems Engineer/Database Administrator, Infosys (2015-2017)
+- Software Engineer Intern, Reliance Industries Limited (2014)

@@ -1,0 +1,15 @@
+----------------------------------------------
+Name : Database Administrator & Web Developer
+Education : B.S. in Computer Science, Ramapo College of New Jersey, January 2019
+Skills : SQL, Android, Arduino, C#, C++, Javascript, Perl, Python, CSS, ASP.NET, Java, jQuery, X86 Assembly, Bash, Networking, DBA, Git, HTML 5, Microsoft Office, Photoshop, Machine Learning, Node JS, VMWare LogInsight, Linux, Elastic Stack, Unity Game Engine
+Experience:
+- Database Administrator & Web Developer, United Parcel Service, Mahwah, NJ, June 2017 to April 2018
+  * Performed DBA tasks such as the installation, update, backup, and restore of IBM DB2 databases
+  * Developed monitoring tools which queried, recorded and visualized performance metrics from supported databases
+- Front End Runner, ShopRite of Oakland, Oakland, NJ, November 2013 to January 2017
+  * Earned the leadership role of front end runner shortly after being hired as a cashier
+  * Responsible for managing, scheduling, and assisting dozens of cashiers, including those with special needs, as well as training new hires
+- Snow Tubing Attendant, Campgaw Mountain, Mahwah, NJ, November 2012 to April 2013
+  * Ensured customers' safety while snow tubing
+  * Worked within a team to quickly and safely move tubers down and up the mountain, as well as handle potentially hazardous problems when they arose
+-----------------------------------------------

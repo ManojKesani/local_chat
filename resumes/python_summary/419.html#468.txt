@@ -1,0 +1,53 @@
+----------------------------------------------
+Name : [Not Provided]
+Education : BA in Theatre, State University of New York at Stony Brook - Stony Brook, NY, May 2016
+Skills : Html, Python, Java, Nosql, Networking, Technical support, Vectorworks, Pr, Problem solving, Acrobat, Microsoft office, DBA
+Experience:
+- Database Administrator, BIM Director, Sysadmin at Engineering Firm (May 2017 to Present)
+  * Created workflow automations with Python environment in Vectorworks 2019
+  * Designed and deployed control/monitoring systems and network infrastructures in commercial buildings
+  * Created technical documentation including cabling plans, detailed process documentation, and instructional guides
+  * Worked closely with Engineers, Developers, Designers, and Consultants
+  * Managed inventories
+  * Modeled buildings and systems (3D) in Vectorworks 2019
+  * Managed software projects from design to completion with Agile methodologies
+  * Managed IFC and COBie compliance initiatives in BIM modeling
+  * Designed ontologies for use with GraphDB / OWL2-RL
+  * Wrote SPARQL queries for developers and data analytics
+  * Conducted research on emerging technologies for potential implementation
+  * Held teams to development and production timelines
+- Theatre Consultant (May 2010 to Present)
+- Construction Painter at PNP Craftsmen (January 2017 to May 2017)
+- IT Technician (Field / Remote) at Connetrix (June 2011 to June 2016)
+  * Supported clients remotely, telephonically, and on-site
+  * Served home and small to medium business users
+  * Built custom computer systems
+  * Ran cables
+  * Installed cameras and remote DVR systems
+  * Configured and maintained servers
+  * Recovered data
+  * Possessed a working knowledge and understanding of IP Telephony, Network Engineering, DD-WRT, Cacti, PHP, MySQL, Java, and HTML
+- President / Artistic Director / Executive Producer at Pocket Theatre (September 2012 to September 2015)
+  * Curated and developed new work
+  * Secured grants for programming
+  * Increased annual funding by $10,000 (1000%) since assuming the presidency
+  * Raised $14,000 for programming in the 2014 - 2015 season
+  * Secured licenses and performance spaces
+  * Coordinated equipment rentals
+  * Planned and ran general body meetings
+  * Audited rehearsals and productions
+  * Contracted musical directors, catering, and event staff
+  * Drafted budget proposals
+  * Organized trips to see off-campus performances
+  * Adhered to university policy regarding safety and conduct
+  * Supervised tech
+  * Conducted production meetings
+  * Liaison between performance teams, university staff, and theatre arts department
+  * Organized and trained house management staff
+  * Budgeted and allocated funds to projects
+  * Responded to high volume of emails
+  * Scheduled and led meetings with building managers and staff
+  * Built schedules and maintained numerous production calendars
+  * Managed property and equipment inventories
+  * Built the theatrical learning community through networking and programming
+-----------------------------------------------

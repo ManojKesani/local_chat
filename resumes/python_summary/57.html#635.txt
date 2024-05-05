@@ -1,0 +1,21 @@
+----------------------------------------------
+Name : [Not Provided]
+Education : B.S. in Gifted Science Program, The University of Texas at Dallas - Dallas, TX, December 2014
+Skills : SQL, CSS, HTML, Python, Tableau, SAS, C
+Experience:
+- Systems Analyst, Innovative Management Solutions, October 2016 to Present
+  * Analyzed application raw data and transformed data into a reporting format
+  * Worked closely with customers and developed project/portfolio management dashboards
+  * Developed internal sales shared information dashboards, and saved 10+ licenses cost for sales team
+  * Created dynamic SQL stored procedures to enable the database name & schema name to be dynamic
+  * Created SQL views and stored procedures for dashboards
+  * Assessed new reporting products and services by meeting with vendors, consultants and strategic partners
+  * Troubleshot operational support issues for development and productions problems across multiple environment and operating platforms
+  * Automated internal travel request process, new employee on boarding process and document approval process using Process Director
+- Database Administrator, Innovative Management Solutions, August 2014 to October 2016
+  * Worked closely with customers and developed customized quoting system
+  * Designed and implemented internal IT support hours tracking system
+  * Supported enterprise database integration, including: business intelligence, data warehouse, reporting and application development
+  * Interacted with staffing team and automated the employee/contractor on-boarding process
+  * Tier 1 helpdesk agent, go-to agent for database related tickets, backed up for tier 2 and tier 3 tickets
+-----------------------------------------------

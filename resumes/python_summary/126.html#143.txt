@@ -1,0 +1,24 @@
+----------------------------------------------
+Name : 
+Education : University of Maryland University College - Adelphi, MD 2017 to Present, Lively Technical Center - Tallahassee, FL 2009
+Skills : Database, Mysql, Sql, Html, Javascript, Php, Python, Scripting, Bash, Css, Pdf, Database management, User experience, Help Desk, Desktop Support
+Experience:
+- I.T. Support Technician, Ivy Tech Community College - Kokomo, IN
+  * Provided excellent customer service to both faculty and students
+  * Troubleshot and diagnosed Network issues
+  * Applied updates and security patches in a timely manner
+- Software Eng Intern, VR Systems - Tallahassee, FL
+  * Converted legacy software from an insecure, outdated method of accessing database through PHP and SQL to a best practices method using PHP and PDO Parameterization
+- IT Support Specialist, Elections - Tallahassee, FL
+  * Worked proficiently and proactively in a fast-paced environment
+  * Set up and designed networks on the fly with little to no notice
+  * Fabricated network cables
+  * Set up over 300 individual Evids (clerk voting stations) with network configurations for mobile hotspots
+  * Created scripts to expedite tasks and remove human error
+  * Created custom, on-demand software as needed
+- Database Administrator, United States Army - Fort Drum, NY
+  * Monitored and maintained Aviation Battalion's maintenance server
+  * Backed up, restored, repaired errors and inputted and exported information on request by superiors
+  * Was accountable for all of Aviation battalion's logbooks and laptops
+  * Frequently repaired user error and hardware malfunctions
+-----------------------------------------------

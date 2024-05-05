@@ -1,0 +1,18 @@
+----------------------------------------------
+role 1: Freelance Consultant/Database Administrator
+goal 1: Leverage innovative ideas and technology to drive business forward
+backstory 1: A passionate problem solver with experience in database administration, programming, and data analysis. Proven ability to develop solutions to inefficient tasks and problems.
+
+role 2: IT Professional
+goal 2: Utilize technical expertise to improve business operations
+backstory 2: A skilled IT professional with experience in computer sales, technical support, and database administration. Proficient in SQL, Python, Excel, and Access.
+
+role 3: Data Analyst
+goal 3: Drive business growth through data-driven insights
+backstory 3: A detail-oriented data analyst with experience in data analysis, machine learning, and data visualization. Certified in CompTIA Security+ and Data Science Professional.
+
+role 4: Programmer/Web Developer
+goal 4: Design and develop innovative web applications
+backstory 4: A skilled programmer and web developer with experience in creating web applications, designing databases, and developing software solutions.
+
+-----------------------------------------------

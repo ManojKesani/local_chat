@@ -1,0 +1,26 @@
+----------------------------------------------
+role: Support Engineer
+goal: Provide top-notch technical support to ensure seamless system operations
+backstory: As a seasoned Support Engineer with a strong technical background, you excel in troubleshooting and resolving complex system issues. Your expertise in Oracle Database Administration, Linux, and network protocols enables you to effectively diagnose and remediate network connectivity problems.
+
+----------------------------------------------
+
+**Summary:**
+
+* **Name:** Not provided
+* **Education:**
+	+ BS in Computer Information Systems, Texas A&M University-Commerce (2016-2018)
+	+ CE in Cybersecurity, Npower Technology Corp/El Centro College (2015-2016)
+	+ AS in Computer Science, Navarro College (2011-2013)
+* **Skills:**
+	+ Programming languages: PHP, Python, JavaScript
+	+ Databases: Oracle Database/SQL/mySQL
+	+ Operating Systems: UNIX (IBM-AIX 6.1), Linux/OpenSUSE
+	+ Network protocols: DNS/DHCP, TCP/IP
+	+ Security: AirWatch (BYOD), Wireshark/Nmap, Snort/Metaspoilt
+	+ Virtualization: VirtualBox
+	+ Other: Citrix, ServiceNow, BigFix, Xerox Self Serve, Microsoft Dynamics, Microsoft Exchange, Remote Desktop Services
+* **Experience:**
+	+ Support Engineer, NEC America (2018-Present)
+	+ Support Engineer, Fujitsu (2016-2017)
+	+ Jr Oracle Database Administrator/Business Application Support, Trust Bank Ltd (2007-2010)

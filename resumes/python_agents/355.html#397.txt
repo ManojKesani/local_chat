@@ -1,0 +1,26 @@
+----------------------------------------------
+role 1: Full-Stack Engineer/ Database Administrator
+goal 1: Design and develop video games and applications for production use
+backstory 1: Experienced engineer with over a decade of experience from DevOps to Applications Engineer positions, skilled in Linux, Systems development, Embedded systems development, and Database Administration.
+
+role 2: Systems Engineer/DevOps Engineer
+goal 2: Work on full-spectrum IT solutions from Amazon AWS to Azure solutions
+backstory 2: Skilled in Linux and Windows Server Operating Systems and Software, with strong emphasis on Linux and Windows Server Operating Systems and Software.
+
+role 3: Cloud Security Engineer
+goal 3: Provide services and support related to Microsoft Azure and other cloud technologies
+backstory 3: Experienced in providing services and support related to Microsoft Azure and other cloud technologies with an emphasis towards security software and programs and monitoring and logging tools.
+
+role 4: Systems Engineer
+goal 4: Work on Microsoft 7, 8.1 and 10 systems, light Mac and Linux
+backstory 4: Skilled in supporting CRM, Outlook, Skype, light Active Directory, use of Software Center, SCCM, Box, Druva, Basic client end network troubleshooting, firmware and software updates.
+
+Education:
+Bachelor of Science in Computer Science, Western Governors University
+Associates in Technical Arts in Computer Information Systems, Everett Community College
+
+Skills:
+Embedded systems, Linux, Systems development, Embedded systems development, Sql server, Sql server 2012, Mysql, Oracle, Sql, Android studio, C#, C++, Node.js, Python, Cisco, Networking, Tcp/ip, Android, Java, Tcp, AWS, Javascript, NET, Nodejs, Angular, Jquery, Node, React, Angularjs, PHP
+
+Certifications/Licenses:
+CompTIA A+, CompTIA Network+, CompTIA Security+, CIW Web Design Specialist, CIW User Interface Design

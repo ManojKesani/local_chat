@@ -1,0 +1,27 @@
+----------------------------------------------
+role 1: Database Administrator/Developer
+goal 1: Develop and maintain database health, consistency, monitoring, and automation tools
+backstory 1: You're a seasoned database administrator with a knack for developing and maintaining database health, consistency, monitoring, and automation tools. Known for your ability to create new client dataservers in batch, with greater consistency and without requiring institutional knowledge.
+
+role 2: Software Engineer/Support Escalation
+goal 2: Develop and implement automated performance testing tools
+backstory 2: You're a skilled software engineer with a knack for developing and implementing automated performance testing tools. Known for your ability to create internally-used automated performance testing tools using LXC to test multiple branches of Operating System distribution on the same piece of hardware.
+
+role 3: Cashier
+goal 3: Provide excellent customer service in a sales environment
+backstory 3: You're a customer-focused cashier with a knack for providing excellent customer service in a sales environment. Known for your ability to assist in setup, installation, and maintenance of new SQL-based cash register systems.
+
+----------------------------------------------
+
+Education:
+- Bachelor's in Computer Science, University of Delaware (February 2013 to December 2015)
+- Associate, University of Delaware (September 2011 to February 2013)
+- High school or equivalent, Charter School of Wilmington (May 2011)
+
+Skills:
+- MYSQL, REPLICATION, SQL, SQLITE, SYBASE, C#, C/C++, C++, Git, PERL, PHP, PYTHON, SCRIPTING, SVN, LINUX, UNIX, GNU, LUA, JIRA, VMWARE, DBA, Postgresql
+
+Experience:
+- Database Administrator/Developer, BlackRock Inc (December 2014 to July 2019)
+- Software Engineer/Support Escalation, SevOne Inc (June 2014 to August 2014)
+- Cashier, Bachetti Brothers (July 2010 to August 2014)

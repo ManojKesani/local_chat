@@ -22,7 +22,7 @@ class AgentCreator:
                     llm=my_llm,  # Optional
                     # function_calling_llm=my_llm,  # Optional
                     max_iter=max_iter,  # Optional
-                    max_rpm=max_rpm, # Optional
+                    max_rpm=2, # Optional
                     verbose=verbose,  # Optional
                     allow_delegation=allow_delegation,  # Optional
                     # step_callback=my_intermediate_step_callback,  # Optional

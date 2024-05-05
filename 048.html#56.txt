@@ -1,0 +1,23 @@
+----------------------------------------------
+Name : Carlos Gonzalez
+Education : B.E in Computer Engineering, CITY COLLEGE OF THE CITY UNIVERSITY OF NEW YORK, June 2017
+Skills : API, C++, DJANGO, FRONT-END, Git, HASKELL, JAVASCRIPT, BOOTSTRAP, WEBPACK, JSON, VS CODE, OBJECTIVE C, PHP, PYTHON, XML, MYSQL, POSTGRESQL, SQL, COLDFUSION, HTML5, JavaScript ES6, jQuery, Python, PostgreSQL, Sketch, Responsive Design, CSS3, SASS, HTML5, Django, PHP, MySQL, Linux Command Line, API Integration, MVC, XML, JSON, Bootstrap, ColdFusion, MS SQL, VS code, Eclipse, Git, Github, C++, Objective C, Bitbucket, Jira, Haskell, Java, SCRUM, Agile
+Experience:
+- Web Developer, TOWN RESIDENTIAL, New York, NY, August 2016 to April 2018
+  * Designed, developed, and managed firm's external and internal web applications
+  * Created software to transfer data to/from third-party systems through databases, APIs, Json and xml feeds
+  * Built from the ground up web applications for the company and top performer agents' new projects using Python / Django, Postgresql and Heroku
+  * Improved and troubleshooted web applications, internal databases and external feeds
+  * Collaborated with writers and graphic designers to create and update web content
+  * Assisted realtors with websites functionality training and listings syndication concern from and to third-party sites
+- Database Administrator, August 2015 to August 2016
+  * Created and Improved functionality for the firm's property management system
+  * Created and maintained automated periodic reports and notifications delivered by email
+  * Managed planning, implementation, configuration, and administration of MS SQL relational database management systems
+  * Monitored and managed database backups, logs, and restore and/or recover data as required
+- Computer Specialist, SOUTH BRONX PREPARATORY, Bronx, NY, September 2010 to August 2015
+  * Installed, maintained, troubleshoot and repair all electronic devices' software and hardware
+  * Taught pre-calculus and calculus class to top 10 honor students for a full school year
+  * Created, maintained and managed students' ID cards, email accounts and files
+  * Created school website using HTML, CSS and bootstrap
+-----------------------------------------------

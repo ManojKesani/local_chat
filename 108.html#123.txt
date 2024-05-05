@@ -1,0 +1,25 @@
+----------------------------------------------
+Name : Joy Adedeji
+Education : Bachelor of Arts in Statistics, University of Minnesota - Morris, MN June 2017
+Skills : Database Management, Oracle, SQL, Disaster Recovery, UNIX Shell Scripting, Data Mining, Data Analysis, Data Visualization, Trend Recognition, Report Writing, Research, Problem Resolution, Tableau, ETL, Excel, Data Entry, VBA, MS ACCESS, Powerpoint, R, AWS, Cloud Computing, Python
+Experience:
+- Health Care Data Analyst, Living Spring Home Health Care Inc. - Homewood, IL May 2018 to Present
+  * Manage and modify information systems as needed to serve new purposes and improve workflow
+  * Design financial and administrative reports with concise data visualization of results
+  * Analyze data to identify aberrant trends and issues that impact quality of service or result in improper payments
+  * Make data-driven recommendations for corrective actions for more efficient claims processing
+  * Proactively identify and recommend additional opportunities for data mining and analysis
+  * Support periodic financial and clinical quality audits to ensure compliance
+- Oracle Database Administrator, Ibaka Entertainment Inc - Brooklyn Center, MN August 2017 to Present
+  * Install, setup & configure Oracle 11gR2/ 12c RAC and single instance databases
+  * Manage Backup & Recovery for Oracle on Red Hat Linux using RMAN
+  * Created backup plan design and implementation using cold/hot backups and RMAN backup technology
+  * Go through day-to-day user requests and troubleshoot database related problems
+  * Automate DBA tasks by utilizing SQL and UNIX shell scripting for monitoring Oracle database status, security and backups
+- Business Analyst, Ibaka Entertainment Inc - Brooklyn Center, MN May 2017 to August 2017
+  * Ran complex queries to retrieve data from multiple tables within Oracle and SQL Server databases
+  * Manipulated, cleaned and analyzed data using R and SQL
+  * Addressed data discrepancy issues to management
+  * Worked with the analytics team to build, maintain, and populate data warehouses
+  * Identified areas of opportunity to grow, increase profitability, and optimize effectiveness of service
+-----------------------------------------------
